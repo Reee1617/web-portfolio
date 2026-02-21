@@ -1,0 +1,10 @@
+h1{
+    font-size: 3em;
+    color: #800080; /* Using a proper purple color value */
+    text-align: center;
+    margin-top: 50px;   
+}
+body {
+    background-color: yellow; /* Light gray background for better contrast */
+    padding: 20px;
+}   
